@@ -1,2 +1,2 @@
-# Firewalld-
-使用Firewalld检测登录失败的地址并阻拦相应地址
+# Firewalld
+SSH 恶意登入屏蔽 IP 地址脚本
